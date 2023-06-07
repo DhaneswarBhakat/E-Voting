@@ -1,0 +1,41 @@
+body{
+    
+    margin: 0px;
+    padding: 0px;
+   
+}
+.img-class
+{
+    background: url('../img/lsv.jpg');
+
+}
+.img-register
+{
+    background: url('../img/vote.jpg');
+
+}
+.img-dashboard
+{
+    background: url('../img/lpv.webp');
+
+}
+#headersection{
+    padding: 10px;
+}
+
+input{
+    padding: 10px;
+    border-radius: 5px;
+
+}
+#dropbox{
+    padding: 10px;
+    border-radius: 5px;
+    width: 10%;
+}
+#loginbtn{
+    padding: 8px;
+    border-radius: 5px;
+    background-color: rgba(241, 234, 234, 0.76);
+    color: black;
+}
